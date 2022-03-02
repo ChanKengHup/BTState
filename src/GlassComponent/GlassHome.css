@@ -1,0 +1,38 @@
+.listGlass {
+    background-color: #fff;
+    position: relative;
+}
+.listGlass .img__positon {
+    position: absolute;
+    top: 34px;
+    height: 68px;
+}
+.listGlass img {
+        width: 80%;
+        cursor: pointer;
+}
+#showGlass {
+    position: relative;
+}
+.glass {
+    position: absolute;
+    top: 228px;
+    left: 216px;
+}
+.glass img {
+    width: 158px;
+    opacity: 0.8;
+}
+.content {
+    position: absolute;
+    bottom:0;
+    left: 15px;
+    background-color: rgba(216, 95, 38, 0.7);
+    width: 92%;
+}
+.content h4 {
+    color: blue;
+}
+.content p {
+    color: #fff;
+}
